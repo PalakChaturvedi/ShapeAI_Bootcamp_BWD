@@ -1,5 +1,5 @@
 # SHAPEAI Javascript and Reactjs BOOTCAMP
-Hi I made this project during SHAPEAI Bootcamp, conducted by
+Hi I made this project during SHAPEAI Bootcamp, conducted by ShapeAI
 .
 The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
 learn a lot and it was an amazing experience learning with SHAPEAI.
